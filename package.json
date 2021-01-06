@@ -60,7 +60,7 @@
     "is-function": "^1.0.1",
     "is-plain-object": "^2.0.1",
     "prop-types": "^15.5.4",
-    "supports-color": "^3.1.2"
+    "supports-color": "^3.2.3"
   },
   "devDependencies": {
     "@types/react": "^0.14.55",
